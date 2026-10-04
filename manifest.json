@@ -1,0 +1,27 @@
+{
+  "name": "دفتر کلاسی دبیر | هنرستان پیشرو شهر سوزا",
+  "short_name": "دفتر کلاسی دبیر",
+  "description": "دفتر کلاسی آفلاین دبیران هنرستان پیشرو شهر سوزا",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef2f7",
+  "theme_color": "#4f46e5",
+  "lang": "fa-IR",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
